@@ -1,0 +1,22 @@
+	body {
+			background-color: grey;
+      text-align: center;
+		}
+
+		h1.titutlo1 {
+			color: purple;
+			text-align: center;
+		}
+  	h3.titutlo2 {
+			color: black;
+			text-align: center;
+		}
+  	p.info {
+			color: black;
+			text-align: center;
+		}
+
+		h1 {
+			color: black;
+			text-align: center;
+		}
